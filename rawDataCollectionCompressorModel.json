@@ -1,5 +1,5 @@
 {
-    "_id": {
+  "_id": {
     "$oid": "5f775eec457b461aec1ea90c"
   },
   "timestamp": 1599635525,
@@ -23,16 +23,19 @@
     "B": 100.01,
     "T": 100.01
   },
-  "TEMP":{
-    "T":25.98
+  "TEMP": {
+    "T": 25.98
   },
-  "PRESSURE":{
-    "T":25.98
+  "PRESSURE": {
+    "T": 25.98
   },
-  "ISLOADED":{
-    "T":false
+  "ISLOADED": {
+    "T": false
   },
-  "ISRUNNING":{
-    "T":true
+  "ISRUNNING": {
+    "T": true
+  },
+  "ENERGY": {
+    "T": 4151.9
   }
 }
